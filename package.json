@@ -1,0 +1,6 @@
+{
+	"dependencies": {
+		"agent-browser": "^0.15.1",
+		"jszip": "^3.10.1"
+	}
+}
